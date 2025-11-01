@@ -11,8 +11,8 @@ I'm **Quentin Deglas**, a passionate web developer currently studying at **IIM (
 ---
 
 ## 🌐 Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/slowixx)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/quentin-deglas)
+![Discord Badge](https://img.shields.io/badge/Discord-slowixx-%237289DA?logo=discord&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quentin-deglas-81699832b/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:qudeglas@gmail.com)
 
 ---
